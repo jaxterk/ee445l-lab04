@@ -7,7 +7,7 @@ Edit appropriate files, then:
 git clone https://github.com/jaxterk/ee445l-lab04-template.git
 cd ee445l-lab04-template
 git remote remove origin
-git remote add origin <insert link to git repo, the same one used to clone (without angle brackets)>
+git remote add origin <insert link to your GitHub Classroom repo, the same one used to clone (without angle brackets)>
 git push -u origin master
 ```
 
