@@ -15,7 +15,7 @@ git push -u origin master
 
 ### circuit.svg
 
-[KiCad can export schematics to .svg](https://electronics.stackexchange.com/a/116869). If using the LaTeX template, it can then be converted to .pdf with a tool such as Inkscape.
+[KiCad can export schematics to .svg](https://electronics.stackexchange.com/a/116869).
 
 ### callgraph.svg
 
